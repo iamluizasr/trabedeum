@@ -1,0 +1,11 @@
+Machado de Assis;Dom Casmurro;4;6
+Clarice Lispector;A Hora da Estrela;7;4
+Guimarães Rosa;Grande Sertão: Veredas;1;7;
+Érico Veríssimo;O Tempo e o Vento;8;4
+Carlos Drummond de Andrade;Sentimento do Mundo;4;7
+Mario de Andrade;Macunaíma;0;5
+Aluísio Azevedo;O Cortiço;8;7
+Bernardo Guimarães;A Escrava Isaura;4;7
+Lima Barreto;Triste Fim de Policarpo Quaresma;8;1
+Monteiro Lobato;O Sítio do Pica-Pau Amarelo;3;9
+
